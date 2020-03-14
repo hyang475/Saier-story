@@ -9,3 +9,11 @@ small green figures at the background. They checked the date of the steam, it
 was a week ago. Scientists immediately sent a signal to Saier to make sure
 that the robot was safe. Another week passed, and the scientists still did
 not receive a signal back.
+	
+	After that, the stream  was also interrupted for a long time, which makes scientists
+really worries. Suddenly one day, scientists reveived intermittent signals from Saier.
+ Scientists gathered together immediately and they are eager to know what happened during this time.
+ However, the signal only last about 30 seconds, and then the communication break again. Due to the bad
+communication envitonment, the incoming signal is also vague.
+
+To be continued...   
