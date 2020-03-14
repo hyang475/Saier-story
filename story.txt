@@ -16,4 +16,11 @@ really worries. Suddenly one day, scientists reveived intermittent signals from 
  However, the signal only last about 30 seconds, and then the communication break again. Due to the bad
 communication envitonment, the incoming signal is also vague.
 
-To be continued...   
+	However, after a long time of breaking down the signal sent by Saier, 
+they managed to understand the robot' message. The robot was telling them that
+the small green figures were in fact friendly aliens. They looked like baby 
+elephants but were green in color. The special thing about them is that they 
+have a super power that allows them to generate any resources they want. 
+This was great news for humanity because they finally found something that
+could help them in their survival. The scientists immediately contacted Saier 
+to communicate and come to an agreement with these aliens. 
